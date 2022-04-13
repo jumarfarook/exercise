@@ -1,5 +1,6 @@
 Testing Interactive Staging
 
+adding a line before
 This is one part of the commit
 
 This is second part of the commit
