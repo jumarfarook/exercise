@@ -1,7 +1,10 @@
 Testing Interactive Staging
 
+adding another line before test
 adding a line before
 This is one part of the commit
 
 This is second part of the commit
 adding a line after
+
+adding another line after for test
